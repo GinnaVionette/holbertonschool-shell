@@ -1,2 +1,3 @@
 #!/bin/bash
-filler
+rm -rf *~  /tmp/test_emacs
+
