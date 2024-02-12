@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -rf /tmp/betty > /dev/null
+ls /tmp/my_first_directory/betty > /dev/null
