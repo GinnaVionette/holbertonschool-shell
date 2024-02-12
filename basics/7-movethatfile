@@ -1,2 +1,2 @@
 #!/bin/bash
-filler
+rm -rf /tmp/betty > /dev/null
