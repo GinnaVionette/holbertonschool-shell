@@ -1,2 +1,2 @@
 #!/bin/bash
-ler\n\n
+rm -rf /tmp/*.html
