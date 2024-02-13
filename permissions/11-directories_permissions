@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod a+x dir-s
+chmod 774 d*/workspace
