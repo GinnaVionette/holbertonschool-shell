@@ -1,2 +1,2 @@
 #!/bin/bash
-echo su -1 0-iam_betty
+echo tail -1 0-iam_betty
