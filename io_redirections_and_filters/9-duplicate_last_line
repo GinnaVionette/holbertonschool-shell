@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -n 1 iacta >> tmp
+tail -n 1 iacta | tee-a tmp
